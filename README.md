@@ -9,7 +9,6 @@
 
 <br>
 
-<!-- Male developer coding meme -->
 <img src="https://media.giphy.com/media/cU9Sbf5j5wN9k7DMQw/giphy.gif" width="560" alt="developer coding meme"/>
 
 <br>
@@ -39,7 +38,6 @@ echo "Powered by $FUEL"
 
 <div align="center">
 
-<!-- Male reaction / developer meme -->
 <img src="https://media.giphy.com/media/1dUNCWkGNAwdrRBkOk/giphy.gif" width="420" alt="male reaction meme"/>
 
 <br>
@@ -382,41 +380,11 @@ STEP 7  NEVER. TOUCH. THE CODE.
 
 ---
 
-## `$ ./snake.sh`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/goutamkp18/goutamkp18/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-
-</div>
-
----
-
-## `$ ls ~/trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=goutamkp18&theme=matrix&no-frame=true&no-bg=true&margin-w=6"/>
-
-</div>
-
----
-
 ## `$ fortune`
 
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-
-</div>
-
----
-
-## `$ cat activity.log`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=goutamkp18&bg_color=0d1117&color=3fb950&line=3fb950&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
