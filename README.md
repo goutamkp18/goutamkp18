@@ -1,4 +1,45 @@
-<!-- ========================================================= -->
+# 🐱 About Me
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="60%">
+
+### 👋 Hey, I'm Gangadhar!
+
+I'm an engineering student passionate about **software development, artificial intelligence, machine learning, and building practical projects**.
+
+I enjoy taking ideas and turning them into working applications.
+
+Just like **Doraemon's 4D Pocket**, I like having the right technology ready for every problem. 🎒
+
+### 🔭 Currently Exploring
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 💻 Full Stack Development
+- 🧠 Data Structures & Algorithms
+- 🌐 Backend & API Development
+- 🔌 IoT & Smart Systems
+- 📊 Data Science
+
+### 🎯 Developer Mindset
+
+**Think → Build → Debug → Improve → Repeat 🔁**
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="./assets/about-me-male-meme.gif" width="270"/>
+
+</td>
+
+</tr>
+</table>
+
+</div><!-- ========================================================= -->
 <!--                 🔵 DORAEMON PROFILE 🔵                    -->
 <!-- ========================================================= -->
 
