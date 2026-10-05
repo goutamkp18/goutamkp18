@@ -8,7 +8,11 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="190"/>
+<td width="40%" align="center">
+
+<img src="./assets/about-me-male-meme.gif" width="270"/>
+
+</td>
 
 # 🔵 Welcome to My GitHub! 🔵
 
