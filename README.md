@@ -1,5 +1,5 @@
 <!-- ========================================================= -->
-<!--                    🔵 DORAEMON PROFILE 🔵                 -->
+<!--                 🔵 DORAEMON PROFILE 🔵                    -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -20,8 +20,6 @@
 
 <br><br>
 
-<img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="140"/>
-
 </div>
 
 ---
@@ -32,6 +30,7 @@
 
 <table>
 <tr>
+
 <td width="60%">
 
 ### 👋 Hey, I'm Gangadhar!
@@ -62,6 +61,7 @@ Just like **Doraemon's 4D Pocket**, I like having the right technology ready for
 <img src="https://media.giphy.com/media/4QxQgWZHbeYwM/giphy.gif" width="270"/>
 
 </td>
+
 </tr>
 </table>
 
@@ -127,11 +127,11 @@ Just like **Doraemon's 4D Pocket**, I like having the right technology ready for
 
 ## 🎨 Design & Development Tools
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 
 ## 🔌 Hardware
 
@@ -152,131 +152,156 @@ Just like **Doraemon's 4D Pocket**, I like having the right technology ready for
 
 ### 🎒 Opening the 4D Pocket...
 
-**"Doraemon, I need a project!"** 😭
+## "Doraemon, I need a project!" 😭
 
 </div>
 
 ---
 
-## 🍱 NutriVision AI
+# 🍱 01 — NutriVision AI
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7TKsQ8UQ2sY5w5C8/giphy.gif" width="280"/>
+<img src="./assets/nutrivision-meme.gif" width="320"/>
 
 ### 👨‍💻 Me:
-**"I'll just train an AI model quickly."**
+**"I'll just train the AI quickly."**
 
-### 💻 GPU:
-**"ARE YOU SURE ABOUT THAT?"** 💀
+### 🖥️ GPU:
+**"You said QUICKLY?"** 💀
 
 </div>
 
-### 🧠 AI-Based Food Nutritional Estimation & Personalized Dietary Analysis
+### 🧠 AI-Based Food Nutritional Estimation
 
-- 🤖 Computer Vision
+An AI-powered system for food recognition, nutritional estimation, and personalized dietary analysis.
+
+**Tech Used:**
+
+`YOLO` `PyTorch` `FastAPI` `Python` `Computer Vision`
+
+- 🤖 Food Detection
 - 🍛 Indian Food Recognition
 - 📊 Nutritional Estimation
-- 🧠 YOLO + PyTorch
+- 🧠 Deep Learning
 - ⚡ FastAPI Backend
 
 ---
 
-## 💾 Adaptive Cache ML
+# 💾 02 — Adaptive Cache ML
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="280"/>
+<img src="./assets/cache-meme.gif" width="320"/>
 
-### 🧠 Before ML:
+### 👨‍💻 Me:
+**"I'll just use LRU."**
 
-**"Just use LRU bro."**
-
-### 🤖 After ML:
-
-**"We trained a model to decide who gets evicted."** 💀
+### 🧠 Me after adding ML:
+**"Let's train a model to decide who gets evicted."** 💀
 
 </div>
 
 ### 🧠 Learning-Based Adaptive Cache Replacement & Prefetching
 
-- 🧠 Machine Learning
+An intelligent cache simulator using machine learning for replacement decisions and prefetching.
+
+**Tech Used:**
+
+`Python` `Machine Learning` `Scikit-Learn` `Cache Simulation`
+
+- 🧠 ML-Based Replacement
 - 💾 Cache Optimization
 - 📈 Replacement Prediction
-- ⚡ Intelligent Prefetching
+- ⚡ Adaptive Prefetching
 - 📊 Performance Analysis
 
 ---
 
-## 🩺 OralRiskFinder
+# 🩺 03 — OralRiskFinder
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/d2lcHJTG5Tscg/giphy.gif" width="280"/>
+<img src="./assets/oralrisk-meme.gif" width="320"/>
 
-### 👨‍💻 Model:
-
-**"Everything is working perfectly."** 🚀
+### 👨‍💻 Me:
+**"Everything is working perfectly."** 😎
 
 ### 👨‍💻 Me after changing ONE line:
 
-**"Why is the entire backend dead?"** 💀
+# 💀 WHY IS THE BACKEND DEAD?
 
 </div>
 
-### 🤖 AI-Assisted Oral Health Risk Assessment Platform
+### 🤖 AI-Assisted Oral Health Risk Assessment
 
-- 🤖 CNN Image Analysis
-- 🧠 BERT Questionnaire Analysis
-- ⚡ FastAPI
-- 🌐 React / Node.js
-- 🗄️ Supabase
+An AI-assisted platform combining image analysis and questionnaire-based assessment.
+
+**Tech Used:**
+
+`CNN` `BERT` `FastAPI` `React` `Node.js` `Supabase`
+
+- 🤖 Image Analysis
+- 🧠 BERT Questionnaire Processing
+- ⚡ FastAPI Backend
+- 🌐 React Frontend
+- 🗄️ Supabase Database
 
 ---
 
-## 🧩 Algorithm Visualizer
+# 🧩 04 — DSA Algorithm Visualizer
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif" width="280"/>
+<img src="./assets/dsa-meme.gif" width="320"/>
 
 ### 👨‍💻 Me:
+**"I'll make DSA easy."**
 
-**"I'll make DSA easy to understand."**
+### 👨‍💻 Also me after implementing one algorithm:
 
-### 👨‍💻 Also me:
-
-**"Why isn't this sorting?"** 😭
+**"Why is this O(n²)?"** 😭
 
 </div>
 
-### 🧠 Interactive Data Structures & Algorithms Visualization
+### 🧠 Interactive Algorithm Visualization
 
-- 💻 React
-- ⚡ TypeScript
-- 🎨 Tailwind CSS
-- 🧠 DSA
-- 📊 Interactive Visualizations
+An interactive platform for understanding data structures and algorithms visually.
+
+**Tech Used:**
+
+`React` `TypeScript` `Tailwind CSS` `Vite`
+
+- 🔄 Sorting Algorithms
+- 🔎 Searching Algorithms
+- 🌳 Data Structures
+- 📊 Visual Animations
+- 🧠 Algorithm Learning
 
 ---
 
-## ♻️ Smart Wet Waste Segregation System
+# ♻️ 05 — Smart Wet Waste Segregation System
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif" width="280"/>
+<img src="./assets/waste-meme.gif" width="320"/>
 
 ### 👨‍💻 Me:
-
-**"It's just a simple IoT project."**
+**"It's just a simple Arduino project."**
 
 ### 🔌 Arduino + Sensors + Motors:
 
-**"HAHAHAHAHA."** 💀
+# "HAHAHAHAHAHA." 💀
 
 </div>
 
 ### ♻️ IoT-Based Automated Waste Segregation
+
+A smart system designed to automate waste segregation using sensors and embedded hardware.
+
+**Tech Used:**
+
+`Arduino` `ESP32` `Sensors` `IoT` `Automation`
 
 - 🔌 Arduino / ESP32
 - 📡 Sensors
@@ -286,63 +311,82 @@ Just like **Doraemon's 4D Pocket**, I like having the right technology ready for
 
 ---
 
-## 🏠 EcoHome Hub
+# 🏠 06 — EcoHome Hub
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="280"/>
+<img src="./assets/ecohome-meme.gif" width="320"/>
 
-### 💡 Me:
+### 👨‍💻 Me:
+**"Let's automate the entire house."**
 
-**"Let's automate the house."**
-
-### 🏠 House:
+### 🏠 House after deployment:
 
 **"Everything was working yesterday."** 💀
 
 </div>
 
-### 🏠 IoT-Based Smart Home Automation System
+### 🏠 Smart Home Automation System
 
-- 🔌 IoT
-- 📡 Sensors
+An IoT-based smart home system for automation and monitoring.
+
+**Tech Used:**
+
+`IoT` `Arduino` `Sensors` `Firebase`
+
 - 🏠 Smart Home
-- ⚡ Energy Monitoring
+- 📡 Sensor Monitoring
+- ⚡ Energy Management
 - 🤖 Automation
+- ☁️ Cloud Integration
 
 ---
 
+# 😂 Developer Life
+
 <div align="center">
 
-# 🧑‍💻 THE DEVELOPER EXPERIENCE
+<img src="./assets/developer-meme.gif" width="380"/>
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350"/>
+### 👨‍💻 STEP 1
 
-### 1️⃣ Write Code
-
-⬇️
-
-### 2️⃣ Run Code
+Write code.
 
 ⬇️
 
-### 3️⃣ Get Error
+### ▶️ STEP 2
+
+Run code.
 
 ⬇️
 
-### 4️⃣ Google Error
+### 💀 STEP 3
+
+Get error.
 
 ⬇️
 
-### 5️⃣ Copy StackOverflow Answer
+### 🔎 STEP 4
+
+Google the error.
 
 ⬇️
 
-### 6️⃣ It Works
+### 📋 STEP 5
+
+Copy Stack Overflow answer.
 
 ⬇️
 
-### 7️⃣ **DON'T TOUCH IT.** 😭
+### ✅ STEP 6
+
+It works.
+
+⬇️
+
+### 🚨 STEP 7
+
+**DON'T TOUCH THE CODE.**
 
 </div>
 
@@ -372,15 +416,15 @@ Just like **Doraemon's 4D Pocket**, I like having the right technology ready for
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=goutamkp18&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=false" />
+<img src="https://github-readme-stats.vercel.app/api?username=goutamkp18&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=false"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=goutamkp18&theme=default&hide_border=false" />
+<img src="https://streak-stats.demolab.com/?user=goutamkp18&theme=default&hide_border=false"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goutamkp18&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goutamkp18&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 
 </div>
 
@@ -390,11 +434,7 @@ Just like **Doraemon's 4D Pocket**, I like having the right technology ready for
 
 <div align="center">
 
-<p>
-
 <img src="https://raw.githubusercontent.com/goutamkp18/goutamkp18/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</p>
 
 </div>
 
