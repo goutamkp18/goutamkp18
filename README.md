@@ -1,14 +1,16 @@
 <!-- =========================================================
      MEMEOS TERMINAL THEME  |  Gangadhar Poojari
-     SETUP: upload the "assets" folder (all .gif files) to the
-     SAME repo as this README (goutamkp18/goutamkp18), then commit.
+     MEME GIF EDITION
      ========================================================= -->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:238636,100:3fb950&height=200&section=header&text=GANGADHAR%20POOJARI&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%3E_%20MemeOS%20v4.2%20%7C%20loading%20developer...&descSize=16&descAlignY=58" width="100%"/>
 
-<img src="./assets/intro.gif" width="560" alt="terminal intro"/>
+<br>
+
+<!-- Male developer coding meme -->
+<img src="https://media.giphy.com/media/cU9Sbf5j5wN9k7DMQw/giphy.gif" width="560" alt="developer coding meme"/>
 
 <br>
 
@@ -35,6 +37,21 @@ echo "I turn ideas into working projects (eventually)."
 echo "Powered by $FUEL"
 ```
 
+<div align="center">
+
+<!-- Male reaction / developer meme -->
+<img src="https://media.giphy.com/media/1dUNCWkGNAwdrRBkOk/giphy.gif" width="420" alt="male reaction meme"/>
+
+<br>
+
+### 🧔 Me:
+**"This bug should take 5 minutes."**
+
+### ⏰ 4 hours later:
+**"Interesting..."** 💀
+
+</div>
+
 ### 🔭 Currently Exploring
 
 ```diff
@@ -49,7 +66,7 @@ echo "Powered by $FUEL"
 
 ### 🧠 Dev Loop
 
-```
+```text
 while (alive) {
     think();  build();  break();  debug();  cry();  fix();
 }
@@ -67,16 +84,27 @@ while (alive) {
 | "I'll commit later" | Laptop restarts |
 | "No need for comments" | Me, 2 weeks later: "who wrote this?" |
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/d314tXXrfzPGqZlnMu/giphy.gif" width="420" alt="coding reaction meme"/>
+
+### 🧔 Developer:
+**"Trust me bro, I know what I'm doing."** 😎
+
+</div>
+
 ---
 
 ## `$ ls ~/tech_stack`
 
 ### 🧑‍💻 Programming
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🌐 Web Development
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -84,6 +112,7 @@ while (alive) {
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🤖 AI / ML / Data Science
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -93,6 +122,7 @@ while (alive) {
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ### ☁️ Cloud & Backend
+
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -101,6 +131,7 @@ while (alive) {
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ### 🎨 Design & Dev Tools
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white)
@@ -108,6 +139,7 @@ while (alive) {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 
 ### 🔌 Hardware & 📊 Analytics
+
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -122,9 +154,12 @@ while (alive) {
 
 <div align="center">
 
-<img src="./assets/nutrivision.gif" width="480" alt="NutriVision meme"/>
+<img src="https://media.giphy.com/media/DHZrza5F5qeA9XVSOO/giphy.gif" width="480" alt="coding meme"/>
 
-**🧔 Me:** "I'll train the AI quickly."  
+<br>
+
+**🧔 Me:** "I'll train the AI quickly."
+
 **🖥️ GPU:** "You said QUICKLY?" 💀
 
 </div>
@@ -144,9 +179,12 @@ while (alive) {
 
 <div align="center">
 
-<img src="./assets/cache.gif" width="480" alt="Cache meme"/>
+<img src="https://media.giphy.com/media/d314tXXrfzPGqZlnMu/giphy.gif" width="480" alt="developer meme"/>
 
-**🧔 Me:** "I'll just use LRU."  
+<br>
+
+**🧔 Me:** "I'll just use LRU."
+
 **🧠 Me, 2 days later:** "Let's train a model to decide who gets evicted." 😈
 
 </div>
@@ -166,9 +204,12 @@ while (alive) {
 
 <div align="center">
 
-<img src="./assets/oralrisk.gif" width="480" alt="OralRisk meme"/>
+<img src="https://media.giphy.com/media/S8VTGrBPjwo7GnIGiE/giphy.gif" width="480" alt="coding bug meme"/>
 
-**🧔 Me:** "Everything is working perfectly." 😎  
+<br>
+
+**🧔 Me:** "Everything is working perfectly." 😎
+
 **🧔 After changing ONE line:** 💀 WHY IS THE BACKEND DEAD?
 
 </div>
@@ -188,9 +229,12 @@ while (alive) {
 
 <div align="center">
 
-<img src="./assets/dsa.gif" width="480" alt="DSA meme"/>
+<img src="https://media.giphy.com/media/aHiv481xki1WdhQonS/giphy.gif" width="480" alt="developer project meme"/>
 
-**🧔 Me:** "I'll make DSA easy."  
+<br>
+
+**🧔 Me:** "I'll make DSA easy."
+
 **🧔 After one algorithm:** "Why is this O(n²)?" 😭
 
 </div>
@@ -210,9 +254,12 @@ while (alive) {
 
 <div align="center">
 
-<img src="./assets/waste.gif" width="480" alt="Waste segregation meme"/>
+<img src="https://media.giphy.com/media/82agN1spfh9rBJoJzZ/giphy.gif" width="480" alt="computer reaction meme"/>
 
-**🧔 Me:** "It's just a simple Arduino project."  
+<br>
+
+**🧔 Me:** "It's just a simple Arduino project."
+
 **🔌 Arduino + Sensors + Motors:** "HAHAHAHAHA." 💀
 
 </div>
@@ -232,10 +279,13 @@ while (alive) {
 
 <div align="center">
 
-<img src="./assets/ecohome.gif" width="480" alt="EcoHome meme"/>
+<img src="https://media.giphy.com/media/2u4hus2VrVmxjQJcJN/giphy.gif" width="480" alt="male reaction meme"/>
 
-**🧔 Me:** "Let's automate the entire house."  
-**🏠 House after deployment:** "Everything was working yesterday." 🔥
+<br>
+
+**🧔 Me:** "Let's automate the entire house."
+
+**🏠 House after deployment:** "Everything was working yesterday." 💀
 
 </div>
 
@@ -254,11 +304,13 @@ while (alive) {
 
 <div align="center">
 
-<img src="./assets/devlife.gif" width="480" alt="Developer life"/>
+<img src="https://media.giphy.com/media/iT0XxjFbxDO2xdpTWw/giphy.gif" width="480" alt="developer bug meme"/>
 
-</div>
+<br>
 
-```
+### 🧔 DEVELOPER LIFE
+
+```text
 STEP 1  Write code
 STEP 2  Run code
 STEP 3  Get 47 errors
@@ -267,6 +319,8 @@ STEP 5  Copy Stack Overflow answer
 STEP 6  It works
 STEP 7  NEVER. TOUCH. THE CODE.
 ```
+
+</div>
 
 ---
 
@@ -280,15 +334,31 @@ STEP 7  NEVER. TOUCH. THE CODE.
 | Tests before deploying | Tests in production |
 | Fixes the root cause | Adds `try/except: pass` |
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/PehRgRBOWXUjRiUVlu/giphy.gif" width="420" alt="male meme"/>
+
+### 🗿 **ABSOLUTELY PROFESSIONAL DEVELOPMENT** 🗿
+
+</div>
+
 ---
 
 ## `$ ping socials`
 
 <div align="center">
 
-<a href="https://instagram.com/goutam.poojarii"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://linkedin.com/in/Gangadharpoojari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:goutampoojari031@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://instagram.com/goutam.poojarii">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/Gangadharpoojari">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:goutampoojari031@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -354,14 +424,22 @@ STEP 7  NEVER. TOUCH. THE CODE.
 
 <div align="center">
 
-<img src="./assets/final.gif" width="480" alt="exit code 0"/>
+<img src="https://media.giphy.com/media/VI1sqVgqyYq1OFwQY2/giphy.gif" width="480" alt="it works meme"/>
 
-### `exit 0`  💙  Keep Coding. Keep Building. Keep Breaking Things.
+<br>
+
+### `exit 0` 💙
+
+**Keep Coding. Keep Building. Keep Breaking Things.**
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=goutamkp18&label=PROFILE%20VISITORS&color=3fb950&style=for-the-badge"/>
 
+<br><br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,60:238636,100:0d1117&height=120&section=footer"/>
 
-**`> Code • Create • Debug • Repeat`**
+### `> Code • Create • Debug • Repeat`
 
 </div>
