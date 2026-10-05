@@ -1,5 +1,5 @@
 <!-- ========================================================= -->
-<!--                 🔵 DORAEMON PROFILE 🔵                   -->
+<!--                    🔵 DORAEMON PROFILE 🔵                 -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -16,7 +16,11 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=22&duration=3000&pause=1000&color=0088CC&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Building+AI+%26+ML+Projects+%F0%9F%A4%96;Turning+Ideas+into+Working+Projects+%F0%9F%9A%80;Exploring+the+World+of+Technology+%F0%9F%8C%8C" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=22&duration=3000&pause=1000&color=0088CC&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Building+AI+%26+ML+Projects+%F0%9F%A4%96;Turning+Ideas+into+Working+Projects+%F0%9F%9A%80;Exploring+the+World+of+Technology+%F0%9F%8C%8C;Welcome+to+my+4D+Pocket+%F0%9F%8E%92" alt="Typing SVG"/>
+
+<br><br>
+
+<img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="140"/>
 
 </div>
 
@@ -144,58 +148,201 @@ Just like **Doraemon's 4D Pocket**, I like having the right technology ready for
 
 <div align="center">
 
-### 🍱 NutriVision AI
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250"/>
 
-**AI-Based Food Nutritional Estimation & Personalized Dietary Analysis**
+### 🎒 Opening the 4D Pocket...
 
-🤖 Computer Vision  
-🍛 Food Recognition  
-📊 Nutritional Estimation  
-⚡ FastAPI + YOLO + PyTorch
+**"Doraemon, I need a project!"** 😭
 
----
-
-### 💾 Adaptive Cache ML
-
-**Learning-Based Adaptive Cache Replacement & Prefetching**
-
-🧠 Machine Learning  
-💾 Cache Optimization  
-📈 Replacement Prediction  
-⚡ Intelligent Prefetching
+</div>
 
 ---
 
-### 🩺 OralRiskFinder
+## 🍱 NutriVision AI
 
-**AI-Assisted Oral Health Risk Assessment Platform**
+<div align="center">
 
-🤖 CNN  
-🧠 BERT  
-⚡ FastAPI  
-🌐 React / Node.js
+<img src="https://media.giphy.com/media/3o7TKsQ8UQ2sY5w5C8/giphy.gif" width="280"/>
+
+### 👨‍💻 Me:
+**"I'll just train an AI model quickly."**
+
+### 💻 GPU:
+**"ARE YOU SURE ABOUT THAT?"** 💀
+
+</div>
+
+### 🧠 AI-Based Food Nutritional Estimation & Personalized Dietary Analysis
+
+- 🤖 Computer Vision
+- 🍛 Indian Food Recognition
+- 📊 Nutritional Estimation
+- 🧠 YOLO + PyTorch
+- ⚡ FastAPI Backend
 
 ---
 
-### 🧩 Algorithm Visualizer
+## 💾 Adaptive Cache ML
 
-**Interactive Data Structures & Algorithms Visualization**
+<div align="center">
 
-💻 React  
-⚡ TypeScript  
-🎨 Tailwind  
-🧠 DSA
+<img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="280"/>
+
+### 🧠 Before ML:
+
+**"Just use LRU bro."**
+
+### 🤖 After ML:
+
+**"We trained a model to decide who gets evicted."** 💀
+
+</div>
+
+### 🧠 Learning-Based Adaptive Cache Replacement & Prefetching
+
+- 🧠 Machine Learning
+- 💾 Cache Optimization
+- 📈 Replacement Prediction
+- ⚡ Intelligent Prefetching
+- 📊 Performance Analysis
 
 ---
 
-### ♻️ Smart Wet Waste Segregation System
+## 🩺 OralRiskFinder
 
-**IoT-Based Automated Waste Segregation**
+<div align="center">
 
-🔌 Arduino / ESP32  
-📡 Sensors  
-⚙️ Automation  
-♻️ Smart Waste Management
+<img src="https://media.giphy.com/media/d2lcHJTG5Tscg/giphy.gif" width="280"/>
+
+### 👨‍💻 Model:
+
+**"Everything is working perfectly."** 🚀
+
+### 👨‍💻 Me after changing ONE line:
+
+**"Why is the entire backend dead?"** 💀
+
+</div>
+
+### 🤖 AI-Assisted Oral Health Risk Assessment Platform
+
+- 🤖 CNN Image Analysis
+- 🧠 BERT Questionnaire Analysis
+- ⚡ FastAPI
+- 🌐 React / Node.js
+- 🗄️ Supabase
+
+---
+
+## 🧩 Algorithm Visualizer
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif" width="280"/>
+
+### 👨‍💻 Me:
+
+**"I'll make DSA easy to understand."**
+
+### 👨‍💻 Also me:
+
+**"Why isn't this sorting?"** 😭
+
+</div>
+
+### 🧠 Interactive Data Structures & Algorithms Visualization
+
+- 💻 React
+- ⚡ TypeScript
+- 🎨 Tailwind CSS
+- 🧠 DSA
+- 📊 Interactive Visualizations
+
+---
+
+## ♻️ Smart Wet Waste Segregation System
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif" width="280"/>
+
+### 👨‍💻 Me:
+
+**"It's just a simple IoT project."**
+
+### 🔌 Arduino + Sensors + Motors:
+
+**"HAHAHAHAHA."** 💀
+
+</div>
+
+### ♻️ IoT-Based Automated Waste Segregation
+
+- 🔌 Arduino / ESP32
+- 📡 Sensors
+- ⚙️ Automation
+- ♻️ Waste Classification
+- 🤖 Smart System
+
+---
+
+## 🏠 EcoHome Hub
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="280"/>
+
+### 💡 Me:
+
+**"Let's automate the house."**
+
+### 🏠 House:
+
+**"Everything was working yesterday."** 💀
+
+</div>
+
+### 🏠 IoT-Based Smart Home Automation System
+
+- 🔌 IoT
+- 📡 Sensors
+- 🏠 Smart Home
+- ⚡ Energy Monitoring
+- 🤖 Automation
+
+---
+
+<div align="center">
+
+# 🧑‍💻 THE DEVELOPER EXPERIENCE
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350"/>
+
+### 1️⃣ Write Code
+
+⬇️
+
+### 2️⃣ Run Code
+
+⬇️
+
+### 3️⃣ Get Error
+
+⬇️
+
+### 4️⃣ Google Error
+
+⬇️
+
+### 5️⃣ Copy StackOverflow Answer
+
+⬇️
+
+### 6️⃣ It Works
+
+⬇️
+
+### 7️⃣ **DON'T TOUCH IT.** 😭
 
 </div>
 
@@ -243,7 +390,11 @@ Just like **Doraemon's 4D Pocket**, I like having the right technology ready for
 
 <div align="center">
 
+<p>
+
 <img src="https://raw.githubusercontent.com/goutamkp18/goutamkp18/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</p>
 
 </div>
 
