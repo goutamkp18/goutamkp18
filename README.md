@@ -1,210 +1,314 @@
-# 🤖 GANGADHAR POOJARI
+<!-- ========================================================= -->
+<!--                 🔵 DORAEMON PROFILE 🔵                   -->
+<!-- ========================================================= -->
 
-### `SYSTEM STATUS: ONLINE` • `JARVIS CORE: ACTIVE` • `BUILDING THE FUTURE`
+<div align="center">
 
-> **"Sometimes you gotta run before you can walk."** — Tony Stark
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00AEEF,50:0088CC,100:0066A6&height=220&section=header&text=GANGADHAR%20POOJARI&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/>
 
----
+<br>
 
-## ⚡ ARC REACTOR // CORE SYSTEM
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="190"/>
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    J.A.R.V.I.S. TERMINAL                   ║
-╠══════════════════════════════════════════════════════════════╣
-║  USER        :: GANGADHAR POOJARI                           ║
-║  ROLE        :: ENGINEERING STUDENT / DEVELOPER             ║
-║  CORE        :: AI • ML • FULL STACK • SYSTEMS              ║
-║  STATUS      :: ████████████████████  ONLINE                ║
-║  MODE        :: BUILD • LEARN • INNOVATE                    ║
-╚══════════════════════════════════════════════════════════════╝
-```
+# 🔵 Welcome to My GitHub! 🔵
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111111,100:00E5FF&height=120&section=header&text=GANGADHAR%20POOJARI&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=65"/>
-</p>
+### 💻 Developer • 🤖 AI/ML Explorer • 🚀 Builder
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=22&duration=3000&pause=1000&color=0088CC&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Building+AI+%26+ML+Projects+%F0%9F%A4%96;Turning+Ideas+into+Working+Projects+%F0%9F%9A%80;Exploring+the+World+of+Technology+%F0%9F%8C%8C" alt="Typing SVG"/>
+
+</div>
 
 ---
 
-## 🧠 ABOUT THE ENGINEER
+# 🐱 About Me
 
-```yaml
-identity:
-  name: Gangadhar Poojari
-  focus: Software Engineering + Artificial Intelligence
-  mindset: "Build systems that solve real problems"
+<div align="center">
 
-currently_building:
-  - AI / ML Applications
-  - Full Stack Web Applications
-  - Intelligent Systems
-  - IoT Solutions
-  - Algorithm Visualizers
+<table>
+<tr>
+<td width="60%">
 
-currently_learning:
-  - Artificial Intelligence
-  - Machine Learning
-  - Data Structures & Algorithms
-  - System Design
-  - Advanced Web Development
+### 👋 Hey, I'm Gangadhar!
 
-mission:
-  "Turn ideas into intelligent, usable systems."
-```
+I'm an engineering student passionate about **software development, artificial intelligence, machine learning, and building practical projects**.
 
----
+I enjoy taking ideas and turning them into working applications.
 
-## 🦾 TECH ARMOR // ARSENAL
+Just like **Doraemon's 4D Pocket**, I like having the right technology ready for every problem. 🎒
 
-### ⚙️ CORE SYSTEMS
+### 🔭 Currently Exploring
 
-![C](https://img.shields.io/badge/C-050505?style=for-the-badge&logo=c&logoColor=00E5FF)
-![Python](https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=00E5FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=00E5FF)
-![TypeScript](https://img.shields.io/badge/TypeScript-050505?style=for-the-badge&logo=typescript&logoColor=00E5FF)
+- 🤖 Artificial Intelligence & Machine Learning
+- 💻 Full Stack Development
+- 🧠 Data Structures & Algorithms
+- 🌐 Backend & API Development
+- 🔌 IoT & Smart Systems
+- 📊 Data Science
 
-### 🌐 WEB SYSTEMS
+### 🎯 Developer Mindset
 
-![React](https://img.shields.io/badge/React-050505?style=for-the-badge&logo=react&logoColor=00E5FF)
-![Next.js](https://img.shields.io/badge/Next.js-050505?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
-![Node.js](https://img.shields.io/badge/Node.js-050505?style=for-the-badge&logo=node.js&logoColor=00E5FF)
-![Vite](https://img.shields.io/badge/Vite-050505?style=for-the-badge&logo=vite&logoColor=00E5FF)
-![FastAPI](https://img.shields.io/badge/FastAPI-050505?style=for-the-badge&logo=fastapi&logoColor=00E5FF)
+**Think → Build → Debug → Improve → Repeat 🔁**
 
-### 🤖 AI / ML CORE
+</td>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-050505?style=for-the-badge&logo=pytorch&logoColor=FF3D00)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-050505?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-050505?style=for-the-badge&logo=scikit-learn&logoColor=00E5FF)
-![NumPy](https://img.shields.io/badge/NumPy-050505?style=for-the-badge&logo=numpy&logoColor=00E5FF)
-![Pandas](https://img.shields.io/badge/Pandas-050505?style=for-the-badge&logo=pandas&logoColor=00E5FF)
-![SciPy](https://img.shields.io/badge/SciPy-050505?style=for-the-badge&logo=scipy&logoColor=00E5FF)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-050505?style=for-the-badge&logo=matplotlib&logoColor=00E5FF)
+<td width="40%" align="center">
 
-### ☁️ CLOUD / DATABASE
+<img src="https://media.giphy.com/media/4QxQgWZHbeYwM/giphy.gif" width="270"/>
 
-![Firebase](https://img.shields.io/badge/Firebase-050505?style=for-the-badge&logo=firebase&logoColor=FFB300)
-![Supabase](https://img.shields.io/badge/Supabase-050505?style=for-the-badge&logo=supabase&logoColor=00E5FF)
-![Vercel](https://img.shields.io/badge/Vercel-050505?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
-![Netlify](https://img.shields.io/badge/Netlify-050505?style=for-the-badge&logo=netlify&logoColor=00E5FF)
+</td>
+</tr>
+</table>
 
-### 🔧 HARDWARE / TOOLS
-
-![Arduino](https://img.shields.io/badge/Arduino-050505?style=for-the-badge&logo=arduino&logoColor=00E5FF)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-050505?style=for-the-badge&logo=raspberrypi&logoColor=00E5FF)
-![Git](https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=FF3D00)
-![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Figma](https://img.shields.io/badge/Figma-050505?style=for-the-badge&logo=figma&logoColor=00E5FF)
-![Canva](https://img.shields.io/badge/Canva-050505?style=for-the-badge&logo=canva&logoColor=00E5FF)
+</div>
 
 ---
 
-## 🧬 ACTIVE PROJECTS
+# 🎒 Doraemon's 4D Pocket
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│  PROJECT                         STATUS                   │
-├──────────────────────────────────────────────────────────┤
-│  🧠 AI / ML Systems              ████████████████  READY │
-│  🍱 NutriVision AI               ███████████████░  BUILD │
-│  💾 Adaptive Cache ML            ████████████████  READY │
-│  🩺 OralRiskFinder               ████████████████  READY │
-│  🧩 Algorithm Visualizer         ███████████████░  BUILD │
-│  ♻️ Smart Waste Segregation      ██████████████░░  BUILD │
-│  🌐 Full Stack Applications      ████████████████  ACTIVE│
-└──────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+<img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="220"/>
+
+### 🧰 My Developer Gadgets
+
+</div>
+
+| 🔵 Doraemon Gadget | 💻 Developer Version |
+|---|---|
+| 🚪 Anywhere Door | 🌐 Full Stack Development |
+| ⏰ Time Machine | 📚 Learning New Technologies |
+| 🔦 Small Light | 🐞 Debugging Big Problems |
+| 🎒 4D Pocket | 🧰 My Technology Stack |
+| 🪄 What-If Phone Booth | 💡 Creative Ideas |
+| 🛸 Take-Copter | 🚀 Deploying Projects |
 
 ---
 
-## 📡 SOCIAL NETWORK // COMMUNICATION
+# 💻 Tech Stack
 
-<p align="left">
+## 🧑‍💻 Programming
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+## 🤖 AI / ML / Data Science
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+## ☁️ Cloud & Backend
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+## 🎨 Design & Development Tools
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 🔌 Hardware
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+
+## 📊 Analytics
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+# 🚀 Projects From My 4D Pocket
+
+<div align="center">
+
+### 🍱 NutriVision AI
+
+**AI-Based Food Nutritional Estimation & Personalized Dietary Analysis**
+
+🤖 Computer Vision  
+🍛 Food Recognition  
+📊 Nutritional Estimation  
+⚡ FastAPI + YOLO + PyTorch
+
+---
+
+### 💾 Adaptive Cache ML
+
+**Learning-Based Adaptive Cache Replacement & Prefetching**
+
+🧠 Machine Learning  
+💾 Cache Optimization  
+📈 Replacement Prediction  
+⚡ Intelligent Prefetching
+
+---
+
+### 🩺 OralRiskFinder
+
+**AI-Assisted Oral Health Risk Assessment Platform**
+
+🤖 CNN  
+🧠 BERT  
+⚡ FastAPI  
+🌐 React / Node.js
+
+---
+
+### 🧩 Algorithm Visualizer
+
+**Interactive Data Structures & Algorithms Visualization**
+
+💻 React  
+⚡ TypeScript  
+🎨 Tailwind  
+🧠 DSA
+
+---
+
+### ♻️ Smart Wet Waste Segregation System
+
+**IoT-Based Automated Waste Segregation**
+
+🔌 Arduino / ESP32  
+📡 Sensors  
+⚙️ Automation  
+♻️ Smart Waste Management
+
+</div>
+
+---
+
+# 🌐 Socials
+
+<div align="center">
 
 <a href="https://instagram.com/goutam.poojarii">
-<img src="https://img.shields.io/badge/INSTAGRAM-050505?style=for-the-badge&logo=instagram&logoColor=FF2D55"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/Gangadharpoojari">
-<img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:goutampoojari031@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=FF3D00"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-# 📊 SYSTEM TELEMETRY
+# 📊 GitHub Control Room
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=goutamkp18&theme=dark&hide_border=true&include_all_commits=true&count_private=false"/>
+<img src="https://github-readme-stats.vercel.app/api?username=goutamkp18&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=false" />
 
-<br/>
+<br><br>
 
-<img src="https://streak-stats.demolab.com/?user=goutamkp18&theme=dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=goutamkp18&theme=default&hide_border=false" />
 
-<br/>
+<br><br>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=goutamkp18&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goutamkp18&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 
-</p>
-
----
-
-## 🏆 ACHIEVEMENT MATRIX
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=goutamkp18&theme=onestar&no-frame=true&no-bg=true&margin-w=4"/>
-
-</p>
+</div>
 
 ---
 
-## 🧠 JARVIS // RANDOM TRANSMISSION
+# 🐍 Doraemon's Contribution Snake
 
-<p align="center">
+<div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+<img src="https://raw.githubusercontent.com/goutamkp18/goutamkp18/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
-</p>
-
----
-
-## ⚡ CONTRIBUTION MATRIX
-
-<p align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=goutamkp18&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-
-</p>
+</div>
 
 ---
 
-## 🔭 SYSTEM OBSERVATION
+# 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=goutamkp18&label=SYSTEM%20VISITORS&color=00e5ff&style=for-the-badge"/>
+<img src="https://github-profile-trophy.vercel.app/?username=goutamkp18&theme=flat&no-frame=false&no-bg=false&margin-w=6"/>
 
-</p>
+</div>
 
 ---
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    ARC REACTOR ONLINE                       ║
-║                                                              ║
-║       BUILDING INTELLIGENT SYSTEMS, ONE PROJECT AT A TIME   ║
-║                                                              ║
-║                     < CODE • CREATE • REPEAT >              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg"><desc>Generated with https://github.com/Platane/snk</desc><style>:root{--cb:#1b1f230a;--cs:purple;--ce:#161b22;--c0:#161b22;--c1:#01311f;--c2:#034525;--c3:#0f6d31;--c4:#00c647}.c{shape-rendering:geometricPrecision;fill:var(--ce);stroke-width:1px;stroke:var(--cb);animation:none 25700ms linear infinite;width:12px;height:12px}@keyframes c0{70.42%{fill:var(--c2)}70.44%,100%{fill:var(--ce)}}.c.c0{fill:var(--c2);animation-name:c0}@keyframes c1{67.69%{fill:var(--c2)}67.71%,100%{fill:var(--ce)}}.c.c1{fill:var(--c2);animation-name:c1}@keyframes c2{2.32%{fill:var(--c1)}2.34%,100%{fill:var(--ce)}}.c.c2{fill:var(--c1);animation-name:c2}@keyframes c3{3.88%{fill:var(--c1)}3.9%,100%{fill:var(--ce)}}.c.c3{fill:var(--c1);animation-name:c3}@keyframes c4{5.83%{fill:var(--c1)}5.85%,100%{fill:var(--ce)}}.c.c4{fill:var(--c1);animation-name:c4}@keyframes c5{7.77%{fill:var(--c1)}7.79%,100%{fill:var(--ce)}}.c.c5{fill:var(--c1);animation-name:c5}@keyframes c6{93.38%{fill:var(--c4)}93.4%,100%{fill:var(--ce)}}.c.c6{fill:var(--c4);animation-name:c6}@keyframes c7{10.5%{fill:var(--c1)}10.52%,100%{fill:var(--ce)}}.c.c7{fill:var(--c1);animation-name:c7}@keyframes c8{13.22%{fill:var(--c1)}13.24%,100%{fill:var(--ce)}}.c.c8{fill:var(--c1);animation-name:c8}@keyframes c9{15.55%{fill:var(--c1)}15.57%,100%{fill:var(--ce)}}.c.c9{fill:var(--c1);animation-name:c9}@keyframes ca{35.79%{fill:var(--c1)}35.81%,100%{fill:var(--ce)}}.c.ca{fill:var(--c1);animation-name:ca}@keyframes cb{85.98%{fill:var(--c4)}86%,100%{fill:var(--ce)}}.c.cb{fill:var(--c4);animation-name:cb}@keyframes cc{17.89%{fill:var(--c1)}17.91%,100%{fill:var(--ce)}}.c.cc{fill:var(--c1);animation-name:cc}@keyframes cd{19.45%{fill:var(--c1)}19.47%,100%{fill:var(--ce)}}.c.cd{fill:var(--c1);animation-name:cd}@keyframes ce{84.04%{fill:var(--c3)}84.06%,100%{fill:var(--ce)}}.c.ce{fill:var(--c3);animation-name:ce}@keyframes cf{31.51%{fill:var(--c1)}31.53%,100%{fill:var(--ce)}}.c.cf{fill:var(--c1);animation-name:cf}@keyframes cg{20.61%{fill:var(--c1)}20.63%,100%{fill:var(--ce)}}.c.cg{fill:var(--c1);animation-name:cg}@keyframes ch{28.01%{fill:var(--c1)}28.03%,100%{fill:var(--ce)}}.c.ch{fill:var(--c1);animation-name:ch}@keyframes ci{21.78%{fill:var(--c1)}21.8%,100%{fill:var(--ce)}}.c.ci{fill:var(--c1);animation-name:ci}@keyframes cj{28.78%{fill:var(--c1)}28.8%,100%{fill:var(--ce)}}.c.cj{fill:var(--c1);animation-name:cj}@keyframes ck{29.17%{fill:var(--c1)}29.19%,100%{fill:var(--ce)}}.c.ck{fill:var(--c1);animation-name:ck}@keyframes cl{26.45%{fill:var(--c1)}26.47%,100%{fill:var(--ce)}}.c.cl{fill:var(--c1);animation-name:cl}@keyframes cm{26.06%{fill:var(--c1)}26.08%,100%{fill:var(--ce)}}.c.cm{fill:var(--c1);animation-name:cm}@keyframes cn{51.35%{fill:var(--c2)}51.37%,100%{fill:var(--ce)}}.c.cn{fill:var(--c2);animation-name:cn}@keyframes co{51.74%{fill:var(--c2)}51.76%,100%{fill:var(--ce)}}.c.co{fill:var(--c2);animation-name:co}@keyframes cp{23.73%{fill:var(--c1)}23.75%,100%{fill:var(--ce)}}.c.cp{fill:var(--c1);animation-name:cp}@keyframes cq{24.11%{fill:var(--c1)}24.13%,100%{fill:var(--ce)}}.c.cq{fill:var(--c1);animation-name:cq}@keyframes cr{44.35%{fill:var(--c1)}44.37%,100%{fill:var(--ce)}}.c.cr{fill:var(--c1);animation-name:cr}@keyframes cs{46.68%{fill:var(--c1)}46.7%,100%{fill:var(--ce)}}.c.cs{fill:var(--c1);animation-name:cs}@keyframes ct{46.29%{fill:var(--c1)}46.31%,100%{fill:var(--ce)}}.c.ct{fill:var(--c1);animation-name:ct}.u{transform-origin:0 0;transform:scale(0,1);animation:none linear 25700ms infinite}@keyframes u0{2.32%{transform:scale(0.000,1)}2.34%,3.88%{transform:scale(0.043,1)}3.9%,5.83%{transform:scale(0.087,1)}5.85%,7.77%{transform:scale(0.130,1)}7.79%,10.5%{transform:scale(0.174,1)}10.52%,13.22%{transform:scale(0.217,1)}13.24%,15.55%{transform:scale(0.261,1)}15.57%,17.89%{transform:scale(0.304,1)}17.91%,19.45%{transform:scale(0.348,1)}19.47%,20.61%{transform:scale(0.391,1)}20.63%,21.78%{transform:scale(0.435,1)}21.8%,23.73%{transform:scale(0.478,1)}23.75%,24.11%{transform:scale(0.522,1)}24.13%,26.06%{transform:scale(0.565,1)}26.08%,26.45%{transform:scale(0.609,1)}26.47%,28.01%{transform:scale(0.652,1)}28.03%,28.78%{transform:scale(0.696,1)}28.8%,29.17%{transform:scale(0.739,1)}29.19%,31.51%{transform:scale(0.783,1)}31.53%,35.79%{transform:scale(0.826,1)}35.81%,44.35%{transform:scale(0.870,1)}44.37%,46.29%{transform:scale(0.913,1)}46.31%,46.68%{transform:scale(0.957,1)}46.7%,100%{transform:scale(1.000,1)}}.u.u0{fill:var(--c1);animation-name:u0;transform-origin:0.0px 0}@keyframes u1{51.35%{transform:scale(0.000,1)}51.37%,51.74%{transform:scale(0.250,1)}51.76%,67.69%{transform:scale(0.500,1)}67.71%,70.42%{transform:scale(0.750,1)}70.44%,100%{transform:scale(1.000,1)}}.u.u1{fill:var(--c2);animation-name:u1;transform-origin:650.1px 0}@keyframes u2{84.04%{transform:scale(0.000,1)}84.06%,100%{transform:scale(1.000,1)}}.u.u2{fill:var(--c3);animation-name:u2;transform-origin:763.2px 0}@keyframes u3{85.98%{transform:scale(0.000,1)}86%,93.38%{transform:scale(0.500,1)}93.4%,100%{transform:scale(1.000,1)}}.u.u3{fill:var(--c4);animation-name:u3;transform-origin:791.5px 0}.s{shape-rendering:geometricPrecision;fill:var(--cs);animation:none linear 25700ms infinite}@keyframes s0{0%,99.61%{transform:translate(0px,-16px)}0.39%{transform:translate(0px,0px)}0.78%{transform:translate(16px,0px)}1.56%{transform:translate(16px,32px)}1.95%{transform:translate(32px,32px)}2.33%{transform:translate(32px,48px)}5.45%{transform:translate(160px,48px)}5.84%{transform:translate(160px,32px)}6.61%{transform:translate(192px,32px)}7.78%{transform:translate(192px,80px)}8.95%{transform:translate(240px,80px)}10.51%{transform:translate(240px,16px)}15.18%{transform:translate(432px,16px)}15.56%{transform:translate(432px,0px)}17.12%{transform:translate(496px,0px)}17.9%{transform:translate(496px,32px)}18.29%{transform:translate(512px,32px)}19.46%{transform:translate(512px,80px)}20.23%{transform:translate(544px,80px)}20.62%{transform:translate(544px,96px)}23.35%{transform:translate(656px,96px)}23.74%{transform:translate(656px,80px)}24.12%{transform:translate(672px,80px)}25.68%{transform:translate(672px,16px)}26.07%{transform:translate(656px,16px)}26.46%,50.58%{transform:translate(656px,0px)}28.02%,30.35%{transform:translate(592px,0px)}28.4%{transform:translate(592px,16px)}28.79%{transform:translate(608px,16px)}29.18%{transform:translate(608px,32px)}29.57%{transform:translate(592px,32px)}33.85%,88.33%{transform:translate(448px,0px)}35.8%{transform:translate(448px,80px)}43.19%{transform:translate(752px,80px)}44.36%{transform:translate(752px,32px)}45.91%{transform:translate(816px,32px)}46.69%{transform:translate(816px,0px)}51.75%{transform:translate(656px,48px)}52.14%{transform:translate(640px,48px)}52.92%{transform:translate(640px,16px)}68.48%{transform:translate(0px,16px)}70.43%{transform:translate(0px,96px)}80.93%{transform:translate(432px,96px)}81.32%{transform:translate(432px,80px)}83.66%{transform:translate(528px,80px)}84.05%{transform:translate(528px,96px)}85.99%{transform:translate(448px,96px)}97.67%{transform:translate(64px,0px)}98.05%{transform:translate(64px,-16px)}}.s.s0{transform:translate(0px,-16px);animation-name:s0}@keyframes s1{0%,99.61%{transform:translate(16px,-16px)}0.39%{transform:translate(0px,-16px)}0.78%{transform:translate(0px,0px)}1.17%{transform:translate(16px,0px)}1.95%{transform:translate(16px,32px)}2.33%{transform:translate(32px,32px)}2.72%{transform:translate(32px,48px)}5.84%{transform:translate(160px,48px)}6.23%{transform:translate(160px,32px)}7%{transform:translate(192px,32px)}8.17%{transform:translate(192px,80px)}9.34%{transform:translate(240px,80px)}10.89%{transform:translate(240px,16px)}15.56%{transform:translate(432px,16px)}15.95%{transform:translate(432px,0px)}17.51%{transform:translate(496px,0px)}18.29%{transform:translate(496px,32px)}18.68%{transform:translate(512px,32px)}19.84%{transform:translate(512px,80px)}20.62%{transform:translate(544px,80px)}21.01%{transform:translate(544px,96px)}23.74%{transform:translate(656px,96px)}24.12%{transform:translate(656px,80px)}24.51%{transform:translate(672px,80px)}26.07%{transform:translate(672px,16px)}26.46%{transform:translate(656px,16px)}26.85%,50.97%{transform:translate(656px,0px)}28.4%,30.74%{transform:translate(592px,0px)}28.79%{transform:translate(592px,16px)}29.18%{transform:translate(608px,16px)}29.57%{transform:translate(608px,32px)}29.96%{transform:translate(592px,32px)}34.24%,88.72%{transform:translate(448px,0px)}36.19%{transform:translate(448px,80px)}43.58%{transform:translate(752px,80px)}44.75%{transform:translate(752px,32px)}46.3%{transform:translate(816px,32px)}47.08%{transform:translate(816px,0px)}52.14%{transform:translate(656px,48px)}52.53%{transform:translate(640px,48px)}53.31%{transform:translate(640px,16px)}68.87%{transform:translate(0px,16px)}70.82%{transform:translate(0px,96px)}81.32%{transform:translate(432px,96px)}81.71%{transform:translate(432px,80px)}84.05%{transform:translate(528px,80px)}84.44%{transform:translate(528px,96px)}86.38%{transform:translate(448px,96px)}98.05%{transform:translate(64px,0px)}98.44%{transform:translate(64px,-16px)}}.s.s1{transform:translate(16px,-16px);animation-name:s1}@keyframes s2{0%,99.61%{transform:translate(32px,-16px)}0.78%{transform:translate(0px,-16px)}1.17%{transform:translate(0px,0px)}1.56%{transform:translate(16px,0px)}2.33%{transform:translate(16px,32px)}2.72%{transform:translate(32px,32px)}3.11%{transform:translate(32px,48px)}6.23%{transform:translate(160px,48px)}6.61%{transform:translate(160px,32px)}7.39%{transform:translate(192px,32px)}8.56%{transform:translate(192px,80px)}9.73%{transform:translate(240px,80px)}11.28%{transform:translate(240px,16px)}15.95%{transform:translate(432px,16px)}16.34%{transform:translate(432px,0px)}17.9%{transform:translate(496px,0px)}18.68%{transform:translate(496px,32px)}19.07%{transform:translate(512px,32px)}20.23%{transform:translate(512px,80px)}21.01%{transform:translate(544px,80px)}21.4%{transform:translate(544px,96px)}24.12%{transform:translate(656px,96px)}24.51%{transform:translate(656px,80px)}24.9%{transform:translate(672px,80px)}26.46%{transform:translate(672px,16px)}26.85%{transform:translate(656px,16px)}27.24%,51.36%{transform:translate(656px,0px)}28.79%,31.13%{transform:translate(592px,0px)}29.18%{transform:translate(592px,16px)}29.57%{transform:translate(608px,16px)}29.96%{transform:translate(608px,32px)}30.35%{transform:translate(592px,32px)}34.63%,89.11%{transform:translate(448px,0px)}36.58%{transform:translate(448px,80px)}43.97%{transform:translate(752px,80px)}45.14%{transform:translate(752px,32px)}46.69%{transform:translate(816px,32px)}47.47%{transform:translate(816px,0px)}52.53%{transform:translate(656px,48px)}52.92%{transform:translate(640px,48px)}53.7%{transform:translate(640px,16px)}69.26%{transform:translate(0px,16px)}71.21%{transform:translate(0px,96px)}81.71%{transform:translate(432px,96px)}82.1%{transform:translate(432px,80px)}84.44%{transform:translate(528px,80px)}84.82%{transform:translate(528px,96px)}86.77%{transform:translate(448px,96px)}98.44%{transform:translate(64px,0px)}98.83%{transform:translate(64px,-16px)}}.s.s2{transform:translate(32px,-16px);animation-name:s2}@keyframes s3{0%,99.61%{transform:translate(48px,-16px)}1.17%{transform:translate(0px,-16px)}1.56%{transform:translate(0px,0px)}1.95%{transform:translate(16px,0px)}2.72%{transform:translate(16px,32px)}3.11%{transform:translate(32px,32px)}3.5%{transform:translate(32px,48px)}6.61%{transform:translate(160px,48px)}7%{transform:translate(160px,32px)}7.78%{transform:translate(192px,32px)}8.95%{transform:translate(192px,80px)}10.12%{transform:translate(240px,80px)}11.67%{transform:translate(240px,16px)}16.34%{transform:translate(432px,16px)}16.73%{transform:translate(432px,0px)}18.29%{transform:translate(496px,0px)}19.07%{transform:translate(496px,32px)}19.46%{transform:translate(512px,32px)}20.62%{transform:translate(512px,80px)}21.4%{transform:translate(544px,80px)}21.79%{transform:translate(544px,96px)}24.51%{transform:translate(656px,96px)}24.9%{transform:translate(656px,80px)}25.29%{transform:translate(672px,80px)}26.85%{transform:translate(672px,16px)}27.24%{transform:translate(656px,16px)}27.63%,51.75%{transform:translate(656px,0px)}29.18%,31.52%{transform:translate(592px,0px)}29.57%{transform:translate(592px,16px)}29.96%{transform:translate(608px,16px)}30.35%{transform:translate(608px,32px)}30.74%{transform:translate(592px,32px)}35.02%,89.49%{transform:translate(448px,0px)}36.96%{transform:translate(448px,80px)}44.36%{transform:translate(752px,80px)}45.53%{transform:translate(752px,32px)}47.08%{transform:translate(816px,32px)}47.86%{transform:translate(816px,0px)}52.92%{transform:translate(656px,48px)}53.31%{transform:translate(640px,48px)}54.09%{transform:translate(640px,16px)}69.65%{transform:translate(0px,16px)}71.6%{transform:translate(0px,96px)}82.1%{transform:translate(432px,96px)}82.49%{transform:translate(432px,80px)}84.82%{transform:translate(528px,80px)}85.21%{transform:translate(528px,96px)}87.16%{transform:translate(448px,96px)}98.83%{transform:translate(64px,0px)}99.22%{transform:translate(64px,-16px)}}.s.s3{transform:translate(48px,-16px);animation-name:s3}</style><rect class="c" x="2" y="2" rx="2" ry="2"/><rect class="c" x="2" y="18" rx="2" ry="2"/><rect class="c" x="2" y="34" rx="2" ry="2"/><rect class="c" x="2" y="50" rx="2" ry="2"/><rect class="c" x="2" y="66" rx="2" ry="2"/><rect class="c" x="2" y="82" rx="2" ry="2"/><rect class="c c0" x="2" y="98" rx="2" ry="2"/><rect class="c" x="18" y="2" rx="2" ry="2"/><rect class="c" x="18" y="18" rx="2" ry="2"/><rect class="c" x="18" y="34" rx="2" ry="2"/><rect class="c" x="18" y="50" rx="2" ry="2"/><rect class="c" x="18" y="66" rx="2" ry="2"/><rect class="c" x="18" y="82" rx="2" ry="2"/><rect class="c" x="18" y="98" rx="2" ry="2"/><rect class="c" x="34" y="2" rx="2" ry="2"/><rect class="c c1" x="34" y="18" rx="2" ry="2"/><rect class="c" x="34" y="34" rx="2" ry="2"/><rect class="c c2" x="34" y="50" rx="2" ry="2"/><rect class="c" x="34" y="66" rx="2" ry="2"/><rect class="c" x="34" y="82" rx="2" ry="2"/><rect class="c" x="34" y="98" rx="2" ry="2"/><rect class="c" x="50" y="2" rx="2" ry="2"/><rect class="c" x="50" y="18" rx="2" ry="2"/><rect class="c" x="50" y="34" rx="2" ry="2"/><rect class="c" x="50" y="50" rx="2" ry="2"/><rect class="c" x="50" y="66" rx="2" ry="2"/><rect class="c" x="50" y="82" rx="2" ry="2"/><rect class="c" x="50" y="98" rx="2" ry="2"/><rect class="c" x="66" y="2" rx="2" ry="2"/><rect class="c" x="66" y="18" rx="2" ry="2"/><rect class="c" x="66" y="34" rx="2" ry="2"/><rect class="c" x="66" y="50" rx="2" ry="2"/><rect class="c" x="66" y="66" rx="2" ry="2"/><rect class="c" x="66" y="82" rx="2" ry="2"/><rect class="c" x="66" y="98" rx="2" ry="2"/><rect class="c" x="82" y="2" rx="2" ry="2"/><rect class="c" x="82" y="18" rx="2" ry="2"/><rect class="c" x="82" y="34" rx="2" ry="2"/><rect class="c" x="82" y="50" rx="2" ry="2"/><rect class="c" x="82" y="66" rx="2" ry="2"/><rect class="c" x="82" y="82" rx="2" ry="2"/><rect class="c" x="82" y="98" rx="2" ry="2"/><rect class="c" x="98" y="2" rx="2" ry="2"/><rect class="c" x="98" y="18" rx="2" ry="2"/><rect class="c" x="98" y="34" rx="2" ry="2"/><rect class="c c3" x="98" y="50" rx="2" ry="2"/><rect class="c" x="98" y="66" rx="2" ry="2"/><rect class="c" x="98" y="82" rx="2" ry="2"/><rect class="c" x="98" y="98" rx="2" ry="2"/><rect class="c" x="114" y="2" rx="2" ry="2"/><rect class="c" x="114" y="18" rx="2" ry="2"/><rect class="c" x="114" y="34" rx="2" ry="2"/><rect class="c" x="114" y="50" rx="2" ry="2"/><rect class="c" x="114" y="66" rx="2" ry="2"/><rect class="c" x="114" y="82" rx="2" ry="2"/><rect class="c" x="114" y="98" rx="2" ry="2"/><rect class="c" x="130" y="2" rx="2" ry="2"/><rect class="c" x="130" y="18" rx="2" ry="2"/><rect class="c" x="130" y="34" rx="2" ry="2"/><rect class="c" x="130" y="50" rx="2" ry="2"/><rect class="c" x="130" y="66" rx="2" ry="2"/><rect class="c" x="130" y="82" rx="2" ry="2"/><rect class="c" x="130" y="98" rx="2" ry="2"/><rect class="c" x="146" y="2" rx="2" ry="2"/><rect class="c" x="146" y="18" rx="2" ry="2"/><rect class="c" x="146" y="34" rx="2" ry="2"/><rect class="c" x="146" y="50" rx="2" ry="2"/><rect class="c" x="146" y="66" rx="2" ry="2"/><rect class="c" x="146" y="82" rx="2" ry="2"/><rect class="c" x="146" y="98" rx="2" ry="2"/><rect class="c" x="162" y="2" rx="2" ry="2"/><rect class="c" x="162" y="18" rx="2" ry="2"/><rect class="c c4" x="162" y="34" rx="2" ry="2"/><rect class="c" x="162" y="50" rx="2" ry="2"/><rect class="c" x="162" y="66" rx="2" ry="2"/><rect class="c" x="162" y="82" rx="2" ry="2"/><rect class="c" x="162" y="98" rx="2" ry="2"/><rect class="c" x="178" y="2" rx="2" ry="2"/><rect class="c" x="178" y="18" rx="2" ry="2"/><rect class="c" x="178" y="34" rx="2" ry="2"/><rect class="c" x="178" y="50" rx="2" ry="2"/><rect class="c" x="178" y="66" rx="2" ry="2"/><rect class="c" x="178" y="82" rx="2" ry="2"/><rect class="c" x="178" y="98" rx="2" ry="2"/><rect class="c" x="194" y="2" rx="2" ry="2"/><rect class="c" x="194" y="18" rx="2" ry="2"/><rect class="c" x="194" y="34" rx="2" ry="2"/><rect class="c" x="194" y="50" rx="2" ry="2"/><rect class="c" x="194" y="66" rx="2" ry="2"/><rect class="c c5" x="194" y="82" rx="2" ry="2"/><rect class="c" x="194" y="98" rx="2" ry="2"/><rect class="c" x="210" y="2" rx="2" ry="2"/><rect class="c" x="210" y="18" rx="2" ry="2"/><rect class="c" x="210" y="34" rx="2" ry="2"/><rect class="c" x="210" y="50" rx="2" ry="2"/><rect class="c" x="210" y="66" rx="2" ry="2"/><rect class="c" x="210" y="82" rx="2" ry="2"/><rect class="c" x="210" y="98" rx="2" ry="2"/><rect class="c" x="226" y="2" rx="2" ry="2"/><rect class="c" x="226" y="18" rx="2" ry="2"/><rect class="c" x="226" y="34" rx="2" ry="2"/><rect class="c" x="226" y="50" rx="2" ry="2"/><rect class="c" x="226" y="66" rx="2" ry="2"/><rect class="c" x="226" y="82" rx="2" ry="2"/><rect class="c" x="226" y="98" rx="2" ry="2"/><rect class="c c6" x="242" y="2" rx="2" ry="2"/><rect class="c c7" x="242" y="18" rx="2" ry="2"/><rect class="c" x="242" y="34" rx="2" ry="2"/><rect class="c" x="242" y="50" rx="2" ry="2"/><rect class="c" x="242" y="66" rx="2" ry="2"/><rect class="c" x="242" y="82" rx="2" ry="2"/><rect class="c" x="242" y="98" rx="2" ry="2"/><rect class="c" x="258" y="2" rx="2" ry="2"/><rect class="c" x="258" y="18" rx="2" ry="2"/><rect class="c" x="258" y="34" rx="2" ry="2"/><rect class="c" x="258" y="50" rx="2" ry="2"/><rect class="c" x="258" y="66" rx="2" ry="2"/><rect class="c" x="258" y="82" rx="2" ry="2"/><rect class="c" x="258" y="98" rx="2" ry="2"/><rect class="c" x="274" y="2" rx="2" ry="2"/><rect class="c" x="274" y="18" rx="2" ry="2"/><rect class="c" x="274" y="34" rx="2" ry="2"/><rect class="c" x="274" y="50" rx="2" ry="2"/><rect class="c" x="274" y="66" rx="2" ry="2"/><rect class="c" x="274" y="82" rx="2" ry="2"/><rect class="c" x="274" y="98" rx="2" ry="2"/><rect class="c" x="290" y="2" rx="2" ry="2"/><rect class="c" x="290" y="18" rx="2" ry="2"/><rect class="c" x="290" y="34" rx="2" ry="2"/><rect class="c" x="290" y="50" rx="2" ry="2"/><rect class="c" x="290" y="66" rx="2" ry="2"/><rect class="c" x="290" y="82" rx="2" ry="2"/><rect class="c" x="290" y="98" rx="2" ry="2"/><rect class="c" x="306" y="2" rx="2" ry="2"/><rect class="c" x="306" y="18" rx="2" ry="2"/><rect class="c" x="306" y="34" rx="2" ry="2"/><rect class="c" x="306" y="50" rx="2" ry="2"/><rect class="c" x="306" y="66" rx="2" ry="2"/><rect class="c" x="306" y="82" rx="2" ry="2"/><rect class="c" x="306" y="98" rx="2" ry="2"/><rect class="c" x="322" y="2" rx="2" ry="2"/><rect class="c" x="322" y="18" rx="2" ry="2"/><rect class="c" x="322" y="34" rx="2" ry="2"/><rect class="c" x="322" y="50" rx="2" ry="2"/><rect class="c" x="322" y="66" rx="2" ry="2"/><rect class="c" x="322" y="82" rx="2" ry="2"/><rect class="c" x="322" y="98" rx="2" ry="2"/><rect class="c" x="338" y="2" rx="2" ry="2"/><rect class="c" x="338" y="18" rx="2" ry="2"/><rect class="c" x="338" y="34" rx="2" ry="2"/><rect class="c" x="338" y="50" rx="2" ry="2"/><rect class="c" x="338" y="66" rx="2" ry="2"/><rect class="c" x="338" y="82" rx="2" ry="2"/><rect class="c" x="338" y="98" rx="2" ry="2"/><rect class="c" x="354" y="2" rx="2" ry="2"/><rect class="c c8" x="354" y="18" rx="2" ry="2"/><rect class="c" x="354" y="34" rx="2" ry="2"/><rect class="c" x="354" y="50" rx="2" ry="2"/><rect class="c" x="354" y="66" rx="2" ry="2"/><rect class="c" x="354" y="82" rx="2" ry="2"/><rect class="c" x="354" y="98" rx="2" ry="2"/><rect class="c" x="370" y="2" rx="2" ry="2"/><rect class="c" x="370" y="18" rx="2" ry="2"/><rect class="c" x="370" y="34" rx="2" ry="2"/><rect class="c" x="370" y="50" rx="2" ry="2"/><rect class="c" x="370" y="66" rx="2" ry="2"/><rect class="c" x="370" y="82" rx="2" ry="2"/><rect class="c" x="370" y="98" rx="2" ry="2"/><rect class="c" x="386" y="2" rx="2" ry="2"/><rect class="c" x="386" y="18" rx="2" ry="2"/><rect class="c" x="386" y="34" rx="2" ry="2"/><rect class="c" x="386" y="50" rx="2" ry="2"/><rect class="c" x="386" y="66" rx="2" ry="2"/><rect class="c" x="386" y="82" rx="2" ry="2"/><rect class="c" x="386" y="98" rx="2" ry="2"/><rect class="c" x="402" y="2" rx="2" ry="2"/><rect class="c" x="402" y="18" rx="2" ry="2"/><rect class="c" x="402" y="34" rx="2" ry="2"/><rect class="c" x="402" y="50" rx="2" ry="2"/><rect class="c" x="402" y="66" rx="2" ry="2"/><rect class="c" x="402" y="82" rx="2" ry="2"/><rect class="c" x="402" y="98" rx="2" ry="2"/><rect class="c" x="418" y="2" rx="2" ry="2"/><rect class="c" x="418" y="18" rx="2" ry="2"/><rect class="c" x="418" y="34" rx="2" ry="2"/><rect class="c" x="418" y="50" rx="2" ry="2"/><rect class="c" x="418" y="66" rx="2" ry="2"/><rect class="c" x="418" y="82" rx="2" ry="2"/><rect class="c" x="418" y="98" rx="2" ry="2"/><rect class="c c9" x="434" y="2" rx="2" ry="2"/><rect class="c" x="434" y="18" rx="2" ry="2"/><rect class="c" x="434" y="34" rx="2" ry="2"/><rect class="c" x="434" y="50" rx="2" ry="2"/><rect class="c" x="434" y="66" rx="2" ry="2"/><rect class="c" x="434" y="82" rx="2" ry="2"/><rect class="c" x="434" y="98" rx="2" ry="2"/><rect class="c" x="450" y="2" rx="2" ry="2"/><rect class="c" x="450" y="18" rx="2" ry="2"/><rect class="c" x="450" y="34" rx="2" ry="2"/><rect class="c" x="450" y="50" rx="2" ry="2"/><rect class="c" x="450" y="66" rx="2" ry="2"/><rect class="c ca" x="450" y="82" rx="2" ry="2"/><rect class="c cb" x="450" y="98" rx="2" ry="2"/><rect class="c" x="466" y="2" rx="2" ry="2"/><rect class="c" x="466" y="18" rx="2" ry="2"/><rect class="c" x="466" y="34" rx="2" ry="2"/><rect class="c" x="466" y="50" rx="2" ry="2"/><rect class="c" x="466" y="66" rx="2" ry="2"/><rect class="c" x="466" y="82" rx="2" ry="2"/><rect class="c" x="466" y="98" rx="2" ry="2"/><rect class="c" x="482" y="2" rx="2" ry="2"/><rect class="c" x="482" y="18" rx="2" ry="2"/><rect class="c" x="482" y="34" rx="2" ry="2"/><rect class="c" x="482" y="50" rx="2" ry="2"/><rect class="c" x="482" y="66" rx="2" ry="2"/><rect class="c" x="482" y="82" rx="2" ry="2"/><rect class="c" x="482" y="98" rx="2" ry="2"/><rect class="c" x="498" y="2" rx="2" ry="2"/><rect class="c" x="498" y="18" rx="2" ry="2"/><rect class="c cc" x="498" y="34" rx="2" ry="2"/><rect class="c" x="498" y="50" rx="2" ry="2"/><rect class="c" x="498" y="66" rx="2" ry="2"/><rect class="c" x="498" y="82" rx="2" ry="2"/><rect class="c" x="498" y="98" rx="2" ry="2"/><rect class="c" x="514" y="2" rx="2" ry="2"/><rect class="c" x="514" y="18" rx="2" ry="2"/><rect class="c" x="514" y="34" rx="2" ry="2"/><rect class="c" x="514" y="50" rx="2" ry="2"/><rect class="c" x="514" y="66" rx="2" ry="2"/><rect class="c cd" x="514" y="82" rx="2" ry="2"/><rect class="c" x="514" y="98" rx="2" ry="2"/><rect class="c" x="530" y="2" rx="2" ry="2"/><rect class="c" x="530" y="18" rx="2" ry="2"/><rect class="c" x="530" y="34" rx="2" ry="2"/><rect class="c" x="530" y="50" rx="2" ry="2"/><rect class="c" x="530" y="66" rx="2" ry="2"/><rect class="c" x="530" y="82" rx="2" ry="2"/><rect class="c ce" x="530" y="98" rx="2" ry="2"/><rect class="c cf" x="546" y="2" rx="2" ry="2"/><rect class="c" x="546" y="18" rx="2" ry="2"/><rect class="c" x="546" y="34" rx="2" ry="2"/><rect class="c" x="546" y="50" rx="2" ry="2"/><rect class="c" x="546" y="66" rx="2" ry="2"/><rect class="c" x="546" y="82" rx="2" ry="2"/><rect class="c cg" x="546" y="98" rx="2" ry="2"/><rect class="c" x="562" y="2" rx="2" ry="2"/><rect class="c" x="562" y="18" rx="2" ry="2"/><rect class="c" x="562" y="34" rx="2" ry="2"/><rect class="c" x="562" y="50" rx="2" ry="2"/><rect class="c" x="562" y="66" rx="2" ry="2"/><rect class="c" x="562" y="82" rx="2" ry="2"/><rect class="c" x="562" y="98" rx="2" ry="2"/><rect class="c" x="578" y="2" rx="2" ry="2"/><rect class="c" x="578" y="18" rx="2" ry="2"/><rect class="c" x="578" y="34" rx="2" ry="2"/><rect class="c" x="578" y="50" rx="2" ry="2"/><rect class="c" x="578" y="66" rx="2" ry="2"/><rect class="c" x="578" y="82" rx="2" ry="2"/><rect class="c" x="578" y="98" rx="2" ry="2"/><rect class="c ch" x="594" y="2" rx="2" ry="2"/><rect class="c" x="594" y="18" rx="2" ry="2"/><rect class="c" x="594" y="34" rx="2" ry="2"/><rect class="c" x="594" y="50" rx="2" ry="2"/><rect class="c" x="594" y="66" rx="2" ry="2"/><rect class="c" x="594" y="82" rx="2" ry="2"/><rect class="c ci" x="594" y="98" rx="2" ry="2"/><rect class="c" x="610" y="2" rx="2" ry="2"/><rect class="c cj" x="610" y="18" rx="2" ry="2"/><rect class="c ck" x="610" y="34" rx="2" ry="2"/><rect class="c" x="610" y="50" rx="2" ry="2"/><rect class="c" x="610" y="66" rx="2" ry="2"/><rect class="c" x="610" y="82" rx="2" ry="2"/><rect class="c" x="610" y="98" rx="2" ry="2"/><rect class="c" x="626" y="2" rx="2" ry="2"/><rect class="c" x="626" y="18" rx="2" ry="2"/><rect class="c" x="626" y="34" rx="2" ry="2"/><rect class="c" x="626" y="50" rx="2" ry="2"/><rect class="c" x="626" y="66" rx="2" ry="2"/><rect class="c" x="626" y="82" rx="2" ry="2"/><rect class="c" x="626" y="98" rx="2" ry="2"/><rect class="c" x="642" y="2" rx="2" ry="2"/><rect class="c" x="642" y="18" rx="2" ry="2"/><rect class="c" x="642" y="34" rx="2" ry="2"/><rect class="c" x="642" y="50" rx="2" ry="2"/><rect class="c" x="642" y="66" rx="2" ry="2"/><rect class="c" x="642" y="82" rx="2" ry="2"/><rect class="c" x="642" y="98" rx="2" ry="2"/><rect class="c cl" x="658" y="2" rx="2" ry="2"/><rect class="c cm" x="658" y="18" rx="2" ry="2"/><rect class="c cn" x="658" y="34" rx="2" ry="2"/><rect class="c co" x="658" y="50" rx="2" ry="2"/><rect class="c" x="658" y="66" rx="2" ry="2"/><rect class="c cp" x="658" y="82" rx="2" ry="2"/><rect class="c" x="658" y="98" rx="2" ry="2"/><rect class="c" x="674" y="2" rx="2" ry="2"/><rect class="c" x="674" y="18" rx="2" ry="2"/><rect class="c" x="674" y="34" rx="2" ry="2"/><rect class="c" x="674" y="50" rx="2" ry="2"/><rect class="c" x="674" y="66" rx="2" ry="2"/><rect class="c cq" x="674" y="82" rx="2" ry="2"/><rect class="c" x="674" y="98" rx="2" ry="2"/><rect class="c" x="690" y="2" rx="2" ry="2"/><rect class="c" x="690" y="18" rx="2" ry="2"/><rect class="c" x="690" y="34" rx="2" ry="2"/><rect class="c" x="690" y="50" rx="2" ry="2"/><rect class="c" x="690" y="66" rx="2" ry="2"/><rect class="c" x="690" y="82" rx="2" ry="2"/><rect class="c" x="690" y="98" rx="2" ry="2"/><rect class="c" x="706" y="2" rx="2" ry="2"/><rect class="c" x="706" y="18" rx="2" ry="2"/><rect class="c" x="706" y="34" rx="2" ry="2"/><rect class="c" x="706" y="50" rx="2" ry="2"/><rect class="c" x="706" y="66" rx="2" ry="2"/><rect class="c" x="706" y="82" rx="2" ry="2"/><rect class="c" x="706" y="98" rx="2" ry="2"/><rect class="c" x="722" y="2" rx="2" ry="2"/><rect class="c" x="722" y="18" rx="2" ry="2"/><rect class="c" x="722" y="34" rx="2" ry="2"/><rect class="c" x="722" y="50" rx="2" ry="2"/><rect class="c" x="722" y="66" rx="2" ry="2"/><rect class="c" x="722" y="82" rx="2" ry="2"/><rect class="c" x="722" y="98" rx="2" ry="2"/><rect class="c" x="738" y="2" rx="2" ry="2"/><rect class="c" x="738" y="18" rx="2" ry="2"/><rect class="c" x="738" y="34" rx="2" ry="2"/><rect class="c" x="738" y="50" rx="2" ry="2"/><rect class="c" x="738" y="66" rx="2" ry="2"/><rect class="c" x="738" y="82" rx="2" ry="2"/><rect class="c" x="738" y="98" rx="2" ry="2"/><rect class="c" x="754" y="2" rx="2" ry="2"/><rect class="c" x="754" y="18" rx="2" ry="2"/><rect class="c cr" x="754" y="34" rx="2" ry="2"/><rect class="c" x="754" y="50" rx="2" ry="2"/><rect class="c" x="754" y="66" rx="2" ry="2"/><rect class="c" x="754" y="82" rx="2" ry="2"/><rect class="c" x="754" y="98" rx="2" ry="2"/><rect class="c" x="770" y="2" rx="2" ry="2"/><rect class="c" x="770" y="18" rx="2" ry="2"/><rect class="c" x="770" y="34" rx="2" ry="2"/><rect class="c" x="770" y="50" rx="2" ry="2"/><rect class="c" x="770" y="66" rx="2" ry="2"/><rect class="c" x="770" y="82" rx="2" ry="2"/><rect class="c" x="770" y="98" rx="2" ry="2"/><rect class="c" x="786" y="2" rx="2" ry="2"/><rect class="c" x="786" y="18" rx="2" ry="2"/><rect class="c" x="786" y="34" rx="2" ry="2"/><rect class="c" x="786" y="50" rx="2" ry="2"/><rect class="c" x="786" y="66" rx="2" ry="2"/><rect class="c" x="786" y="82" rx="2" ry="2"/><rect class="c" x="786" y="98" rx="2" ry="2"/><rect class="c" x="802" y="2" rx="2" ry="2"/><rect class="c" x="802" y="18" rx="2" ry="2"/><rect class="c" x="802" y="34" rx="2" ry="2"/><rect class="c" x="802" y="50" rx="2" ry="2"/><rect class="c" x="802" y="66" rx="2" ry="2"/><rect class="c" x="802" y="82" rx="2" ry="2"/><rect class="c" x="802" y="98" rx="2" ry="2"/><rect class="c cs" x="818" y="2" rx="2" ry="2"/><rect class="c ct" x="818" y="18" rx="2" ry="2"/><rect class="c" x="818" y="34" rx="2" ry="2"/><rect class="c" x="818" y="50" rx="2" ry="2"/><rect class="c" x="818" y="66" rx="2" ry="2"/><rect class="c" x="818" y="82" rx="2" ry="2"/><rect class="c" x="818" y="98" rx="2" ry="2"/><rect class="c" x="834" y="2" rx="2" ry="2"/><rect class="c" x="834" y="18" rx="2" ry="2"/><rect class="u u0" height="12" width="650.7" x="0.0" y="144"/><rect class="u u1" height="12" width="113.7" x="650.1" y="144"/><rect class="u u2" height="12" width="28.9" x="763.2" y="144"/><rect class="u u3" height="12" width="57.1" x="791.5" y="144"/><rect class="s s0" x="0.8" y="0.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/><rect class="s s1" x="1.8" y="1.8" width="12.3" height="12.3" rx="4.1" ry="4.1"/><rect class="s s2" x="2.6" y="2.6" width="10.8" height="10.8" rx="3.6" ry="3.6"/><rect class="s s3" x="3.0" y="3.0" width="9.9" height="9.9" rx="3.3" ry="3.3"/></svg>
-<p align="center">
-  <b>⚡ JARVIS doesn't replace the engineer. It amplifies the engineer. ⚡</b>
-</p>
+# 💭 Doraemon's Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
+
+</div>
+
+---
+
+# ⏰ Doraemon's Time Machine
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=goutamkp18&bg_color=ffffff&color=0088cc&line=00aef0&point=0066a6&area=true&hide_border=false" width="95%"/>
+
+</div>
+
+---
+
+# 🐱 Doraemon Says...
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/4QxQgWZHbeYwM/giphy.gif" width="200"/>
+
+### 💙 Keep Coding. Keep Building. Keep Exploring. 🚀
+
+**Every problem has a solution — sometimes you just need the right gadget.** 🎒
+
+</div>
+
+---
+
+# 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=goutamkp18&label=PROFILE%20VISITORS&color=00AEEF&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066A6,50:0088CC,100:00AEEF&height=130&section=footer"/>
+
+### 🔵 22nd Century Developer 🔵
+
+**Code • Create • Debug • Repeat**
+
+</div>
