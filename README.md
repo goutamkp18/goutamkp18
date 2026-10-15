@@ -144,14 +144,6 @@ while (alive) {
 
 ---
 
-#
-- 📡 Sensor Monitoring
-- ⚡ Energy Management
-- 🤖 Automation
-- ☁️ Cloud Integration
-
----
-
 ## `$ ./developer_life.exe`
 
 <div align="center">
